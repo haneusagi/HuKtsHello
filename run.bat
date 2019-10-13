@@ -1,0 +1,1 @@
+kotlinc -script HuKtsHello.kts
